@@ -1,6 +1,6 @@
-# TCC
+# Computer Vision to Covid 19
 
-Executar o seguinte código para rodar a aplicação:
+In order to run this app copy and past the following code in the source directory:
 
-`python main.py --default=y --path=imagem_de_teste.png`
+`python main.py --default=y --path=radiography_image.png`
  
